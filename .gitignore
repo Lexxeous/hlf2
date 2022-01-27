@@ -1,0 +1,21 @@
+
+# Created by macOSX systems when unpacking/unzipping
+__MACOSX/
+
+# Unnecessary README documentation log
+README.log
+
+# Unpacked folders
+artefacts/
+ca/
+chaincode/
+cloud/
+configtx/
+cryptogen/
+docker/
+gopath/
+k8s/
+nodechaincode/
+orderer/
+peer/
+setup/
